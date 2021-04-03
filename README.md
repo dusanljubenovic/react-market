@@ -6,7 +6,7 @@ For login you can use account:<br>
 <code>testtest</code><br><br>
 
 In the database is set some quantity for fruits and vegetables.<br>
-When you choose with counter,it is automatically increase or decrease https://prnt.sc/11375a4 <br>
+When you choose with counter, it is automatically increase or decrease https://prnt.sc/11375a4 <br>
 When you complete the checkout process on the fruits and vegetables page you can see that quantity is changed for last entries.<br>
 On the orders page the user can see his orders.
 
