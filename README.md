@@ -1,9 +1,9 @@
 # react-market
 
 <h2>Description:</h2>
-For login you can use account:
-test@test.com
-testtest
+For login you can use account:<br>
+<code>test@test.com</code><br>
+<code>testtest</code><br>
 
 In the database is set some quantity for fruits and vegetables.<br>
 When you choose with counter,it is automatically increase or decrease https://prnt.sc/11375a4 <br>
